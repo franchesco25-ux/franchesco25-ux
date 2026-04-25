@@ -22,7 +22,7 @@ philosophy:
   - "Code. Learn. Repeat." 🔁
 </pre>
 
-<p align="center">🤖 Some tools I have used and learned </p>
+<h3>🤖 Some tools I have used and learned </h3>
 <div align="center" style="padding: 80;" >
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="80"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="80"/>
