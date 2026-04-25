@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey+Everyone!+⚽&animation=blinking&type=cylinder&color=gradient&height=100&stroke=00HH12"/>
+  <img src="https://capsule-render.vercel.app/api?text=Welcome+to+my+profile&animation=fadeIn&type=cylinder&color=gradient&height=115&width="120"&stroke="00HH12")/>
 </p>
 <h2 align="center" >👨🏻‍💻  A Little Bit About Me and My Interests</h2>
 <pre>dev_profile:
